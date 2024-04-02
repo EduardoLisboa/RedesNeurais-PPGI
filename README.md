@@ -1,8 +1,8 @@
 # Neural Networks and Deep Learning
 
-### **Professor/Professor**: Prof. Dr. Tiago Figueiredo Vieira
+**Professor/Professor**: Prof. Dr. Tiago Figueiredo Vieira
 
-### **Student/Aluno**: Eduardo Antônio de Lucena Lisboa
+**Student/Aluno**: Eduardo Antônio de Lucena Lisboa
 
 ---
 
